@@ -1,7 +1,7 @@
 
 // owl carousel
 $('.owl-carousel').owlCarousel({
-  autoplay: false,
+  autoplay: true,
   lazyLoad: true,
   loop:true,
   // margin: 20,
