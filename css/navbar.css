@@ -550,9 +550,11 @@
   text-decoration: none;
   float: left;
   font-size: 13px;
-  color: #343a40;
+  /* color: #343a40; */
+  color: #fff;
   /* background-color: #fdfdfd; */
-  background-color:  burlywood;
+  /* background-color:  burlywood; */
+  background-color: #2f2c5a;
 }
 
 .nav-dropdown > li:hover > a,
@@ -952,14 +954,16 @@
 }
 
 .nav-dropdown > li > a {
-  color: #343a40;
+  /* color: #343a40; */
+  color: #fff;
   padding: 10px 20px;
   border-bottom: 1px solid #f6f6f6;
 }
 
 .nav-dropdown > li > a:hover,
 .nav-dropdown > li > a:focus {
-  color: #1D58A8;
+  /* color: #1D58A8; */
+  color: deepskyblue;
 }
 
 .main_header_area.sticky {
