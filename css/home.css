@@ -1,5 +1,6 @@
 body {
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: macha,sans-serif;
 }
 
 html {
@@ -667,7 +668,8 @@ canvas {
 .features .v-tabs .v-tab-head a {
   position: relative;
   display: block;
-  color: #777;
+  /* color: #777; */
+  color:#2f2c5a;
   text-align: center;
 }
 
