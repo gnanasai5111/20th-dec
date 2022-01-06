@@ -776,7 +776,7 @@ canvas {
 }
 
 /* custom solutions fixed scroll */
-#sticky.stick {
+#sticky.stick{
     position: fixed;
 
     z-index: 10;

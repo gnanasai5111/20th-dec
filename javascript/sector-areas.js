@@ -83,10 +83,12 @@ $(window).scroll(function(){
 
     if(isElementOutViewport(footer)){
       $('#sticky').addClass('stick');
+
       $('.v-tab-pane').css("marginLeft", "25%");
     }
     else{
       $('#sticky').removeClass('stick');
+
       $('.v-tab-pane').css("marginLeft", "0");
     }
   }

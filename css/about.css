@@ -182,6 +182,7 @@
   background-position: center;
   background-size: cover;
   /* height: 420px; */
+  background-attachment: fixed;
   height: 25vh;
   position: relative;
   background-repeat: no-repeat;
