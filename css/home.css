@@ -670,7 +670,7 @@ canvas {
   display: block;
   /* color: #777; */
   color:#2f2c5a;
-  text-align: center;
+  text-align: left;
 }
 
 .features .v-tabs .v-tab-head a.active {
